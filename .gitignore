@@ -132,3 +132,5 @@ dmypy.json
 #addtional files
 .zip
 .csv
+logs/
+*.csv
